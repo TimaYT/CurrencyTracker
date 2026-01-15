@@ -34,14 +34,16 @@ amacıyla geliştirilmiştir.
 
 ## 📂 Proje Dosya Yapısı
 
-📁 DovizTakipUygulamasi
-│
-├── 📄 Program.cs → Ana uygulama (Menü & Akış)
-├── 📄 DovizService.cs → API işlemleri & analizler
-├── 📄 Currency.cs → Döviz modeli
-├── 📄 CurrencyResponse.cs → API response modeli
-├── 📄 DovizTakipUygulamasi.sln → Visual Studio çözüm dosyası
-└── 📄 README.md → Proje dokümantasyonu
+DovizTakipUygulamasi  
+│  
+├── Program.cs  
+├── DovizService.cs  
+├── Currency.cs  
+├── CurrencyResponse.cs  
+├── DovizTakipUygulamasi.sln  
+└── README.md
+
+
 
 
 ---
@@ -112,39 +114,54 @@ Uygulama aşağıdaki analizleri otomatik yapar:
 ### 🔹 Terminal ile
 ```bash
 dotnet run
+```
 
-🧠 Öğrenilen / Pekiştirilen Konular
-
+## 🧠 Öğrenilen / Pekiştirilen Konular
 ✔️ API tüketimi
+
 ✔️ JSON → C# Model dönüşümü
-✔️ Async programlama
+
+✔️ Async / Await ile asenkron programlama
+
 ✔️ LINQ analizleri
+
 ✔️ Console UI düzeni
-✔️ Temiz kod & sınıf mimarisi
 
-📌 Geliştirilebilir Özellikler
+✔️ Temiz kod ve sınıf mimarisi
 
-🔮 Gelecekte eklenebilir:
+---
+
+## 📌 Geliştirilebilir Özellikler
+
+🔮 Gelecekte eklenebilecek geliştirmeler:
 
 📈 Grafiksel gösterimler
 
 💾 Veritabanı kaydı
 
-⏰ Otomatik güncelleme
+⏰ Otomatik güncelleme sistemi
 
 🖼️ WPF / WinForms arayüz
 
 🌐 Web versiyonu (ASP.NET)
 
-👤 Geliştirici
+---
+
+## 👤 Geliştirici
+
+👨‍💻 Projeyi Geliştiren Kişi:
 
 👨‍💻 Yasin Balkan
+
 🎓 Piri Reis Üniversitesi – Bilgisayar Programcılığı
+
 📆 2025 – 2026
+---
 
 ⭐ Not
-
 Eğer bu proje işine yaradıysa:
 
 ⭐ Star atmayı unutma!
-Bu hem motivasyon hem de destek demektir.
+Bu hem motivasyon hem de destek demektir 😄
+
+---
